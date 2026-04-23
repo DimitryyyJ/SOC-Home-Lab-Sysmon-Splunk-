@@ -1,0 +1,1 @@
+index=endpoint Resume.pdf.exe EventCode=1 | table _time, ParentImage, Image, CommandLine
