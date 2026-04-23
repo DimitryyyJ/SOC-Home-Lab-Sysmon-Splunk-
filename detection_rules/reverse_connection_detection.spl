@@ -1,0 +1,1 @@
+index=endpoint EventCode=3 dest_ip=192.168.20.11 dest_port=4444 | table _time, Image, dest_ip, dest_port
