@@ -1,0 +1,10 @@
+## What's Next
+
+- Create detection rules to identify suspicious behavior, such as:
+  - Remote Desktop (RDP) connections
+  - Reverse shell activity
+  - Execution of unknown or suspicious files
+- Configure alerts in Splunk to notify when malicious activity is detected
+- Expand the lab by adding more attack scenarios (e.g., brute force, privilege escalation)
+- Integrate additional tools such as Wazuh or Elastic SIEM
+- Improve log analysis and correlation between events
